@@ -108,6 +108,6 @@ AVAILABLE_TAGS = [
 
 ## 📁 Repository Structure
 ```
-├── Support_Ticket_Auto_Tagger.ipynb
+├── Auto_Tagging.ipynb
 └── README.md
 ```
