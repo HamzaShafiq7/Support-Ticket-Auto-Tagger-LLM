@@ -81,7 +81,7 @@ Get a free Groq API key at https://console.groq.com → API Keys → Create API 
 No credit card required.
 
 ### Steps
-1. Open `Support_Ticket_Auto_Tagger.ipynb`
+1. Open `Auto_Tagging.ipynb`
 2. Paste your Groq API key in cell 2
 3. Run all cells in order
 
