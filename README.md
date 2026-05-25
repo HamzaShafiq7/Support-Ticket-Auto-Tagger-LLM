@@ -48,10 +48,8 @@ Use prompt engineering with a large language model to automatically classify fre
 ## 📊 Evaluation Results
 | Method | Top-1 Accuracy | Top-3 Accuracy |
 |---|---|---|
-| Zero-Shot | — | — |
-| Few-Shot | — | — |
-
-*(Fill in after running the notebook)*
+| Zero-Shot | 93.3% | 100.0% |
+| Few-Shot | 86.7% | 100.0% |
 
 ---
 
@@ -113,8 +111,3 @@ AVAILABLE_TAGS = [
 ├── Support_Ticket_Auto_Tagger.ipynb
 └── README.md
 ```
-
----
-
-## 👤 Author – Hamza
-AI/ML Engineering Intern – DevelopersHub Corporation
